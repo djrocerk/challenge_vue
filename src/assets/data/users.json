@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "username": "mperdomo",
+    "fullName": "Maria Paula Perdomo Rojas",
+    "password": "123.abc"
+  },
+  {
+    "id": 2,
+    "username": "droldan",
+    "fullName": "Diego Andrés Roldán Lozano",
+    "password": "abcde"
+  }
+]
